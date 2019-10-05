@@ -1,0 +1,4 @@
+[submodule "ra/public"]
+	path = ra/public
+	url = git@github.com:StackSquirrel/StackSquirrel.github.io.git
+	branch = master
