@@ -1,4 +1,4 @@
-baseurl = "https://dmacleod.ca/ra/"
+baseurl = "https://StackSquirrel.github.io/"
 languageCode = "en-us"
 title = "Readers' Advisory blog"
 theme = "hugo-cards"
@@ -13,7 +13,7 @@ paginate = 6
   twitter = "https://twitter.com/thepsammead"
   github = "https://github.com/StackSquirrel"
   email = "info@dmacleod.ca"
-  rss = "https://dmacleod.ca/ra/index.xml"
+  rss = "https://StackSquirrel.github.io/index.xml"
   instagram = "https://www.instagram.com/laddiethedog/"
 
   fbLikeBox = ""
