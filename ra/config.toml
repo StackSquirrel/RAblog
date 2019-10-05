@@ -1,0 +1,30 @@
+baseurl = "https://dmacleod.ca/ra/"
+languageCode = "en-us"
+title = "Readers' Advisory blog"
+theme = "hugo-cards"
+paginate = 6
+
+[params]
+  builtBy = "Donna MacLeod"
+  defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = "https://twitter.com/thepsammead"
+  github = "https://github.com/StackSquirrel"
+  email = "info@dmacleod.ca"
+  rss = "https://dmacleod.ca/ra/index.xml"
+  instagram = "https://www.instagram.com/laddiethedog/"
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "Donna MacLeod"
+     link = "https://dmacleod.ca/"
+
